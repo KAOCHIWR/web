@@ -2,6 +2,8 @@
 web 学习\
  html        
 html基础语法
+<!-- 
+发现了这个网页也可以编写网页
 <html></html>表示一个网页
 <head></head>头部信息
 	标题标签
@@ -46,7 +48,9 @@ html基础语法
 							A 大写字母序号
 							i 小写罗马序号
 							I 大写罗马序号
+  -->
 <!DOCTYPE html> <!-- 表示是html5 -->
+		
 <!--
 <html></html>表示一个网页
 <head></head>头部信息
